@@ -1,1 +1,0 @@
-{"version":3,"file":"QnA.cef240e1.js","sources":["../../src/pages/QnA.tsx"],"sourcesContent":["// https://github.com/tensorflow/tfjs-models/tree/master/qna\nconst QnA = () => {\n  return <></>;\n};\n\nexport default QnA;\n"],"names":["QnA"],"mappings":"iFACMA,GAAM"}

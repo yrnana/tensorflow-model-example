@@ -1,0 +1,1 @@
+{"version":3,"file":"PoseDetection.5989c3b7.js","sources":["../../src/pages/PoseDetection.tsx"],"sourcesContent":["// https://github.com/tensorflow/tfjs-models/tree/master/pose-detection\nconst PoseDetection = () => {\n  return <></>;\n};\n\nexport default PoseDetection;\n"],"names":["PoseDetection"],"mappings":"iFACMA,GAAgB"}

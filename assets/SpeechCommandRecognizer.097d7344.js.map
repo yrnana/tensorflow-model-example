@@ -1,0 +1,1 @@
+{"version":3,"file":"SpeechCommandRecognizer.097d7344.js","sources":["../../src/pages/SpeechCommandRecognizer.tsx"],"sourcesContent":["// https://github.com/tensorflow/tfjs-models/tree/master/speech-commands\nconst SpeechCommandRecognizer = () => {\n  return <></>;\n};\n\nexport default SpeechCommandRecognizer;\n"],"names":["SpeechCommandRecognizer"],"mappings":"iFACMA,GAA0B"}

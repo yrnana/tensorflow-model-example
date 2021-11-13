@@ -1,0 +1,1 @@
+{"version":3,"file":"SemanticSegmentation.fc335940.js","sources":["../../src/pages/SemanticSegmentation.tsx"],"sourcesContent":["// https://github.com/tensorflow/tfjs-models/tree/master/deeplab\nconst SemanticSegmentation = () => {\n  return <></>;\n};\n\nexport default SemanticSegmentation;\n"],"names":["SemanticSegmentation"],"mappings":"iFACMA,GAAuB"}

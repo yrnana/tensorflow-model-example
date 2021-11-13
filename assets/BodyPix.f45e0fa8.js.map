@@ -1,0 +1,1 @@
+{"version":3,"file":"BodyPix.f45e0fa8.js","sources":["../../src/pages/BodyPix.tsx"],"sourcesContent":["// https://github.com/tensorflow/tfjs-models/tree/master/body-pix\nconst BodyPix = () => {\n  return <></>;\n};\n\nexport default BodyPix;\n"],"names":["BodyPix"],"mappings":"iFACMA,GAAU"}
