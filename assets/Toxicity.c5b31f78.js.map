@@ -1,0 +1,1 @@
+{"version":3,"file":"Toxicity.c5b31f78.js","sources":["../../src/pages/Toxicity.tsx"],"sourcesContent":["// https://github.com/tensorflow/tfjs-models/tree/master/toxicity\nconst Toxicity = () => {\n  return <></>;\n};\n\nexport default Toxicity;\n"],"names":["Toxicity"],"mappings":"iFACMA,GAAW"}
