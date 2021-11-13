@@ -21,7 +21,7 @@ const Toxicity = lazy(() => import('~/pages/Toxicity'));
 function App() {
   return (
     <Suspense fallback={null}>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
